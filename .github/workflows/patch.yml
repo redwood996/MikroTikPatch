@@ -1,4 +1,4 @@
-name: Patch v7
+name: Patch
 
 on:
   workflow_dispatch:
